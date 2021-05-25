@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "630537485474",
+    "project_id": "bharat-ffd4f",
+    "storage_bucket": "bharat-ffd4f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:630537485474:android:bae3cda75c3f6a0ca82bfb",
+        "android_client_info": {
+          "package_name": "com.example.bharat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "630537485474-kmkevm5tvc5c9ih2e0v58sithi4s6fd4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.bharat",
+            "certificate_hash": "629dff2e05ad7ba28f3f5efcaadbc48365bb125d"
+          }
+        },
+        {
+          "client_id": "630537485474-r7a1sijnc2s7511bahrkehlljku5klvl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA7ZijL_T82I-8dFd755vIYFuMshxLiqIE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "630537485474-r7a1sijnc2s7511bahrkehlljku5klvl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

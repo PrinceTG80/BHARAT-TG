@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/side_nav_bar"
+    tools:context=".MainActivity">
+    <ImageView
+        android:id="@+id/about_app_logo"
+        android:layout_width="300dp"
+        android:layout_height="100dp"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="60dp"
+        android:src="@drawable/bharat"
+        />
+    <TextView
+        android:id="@+id/about_app_slogan"
+        android:layout_width="220dp"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentRight="true"
+        android:layout_marginTop="150dp"
+        android:layout_marginEnd="88dp"
+        android:layout_marginRight="88dp"
+        android:text="Made in INDIA initiative"
+        android:textAlignment="center"
+        android:textSize="12sp"
+        android:textColor="#9FD6D0"
+        android:textColorHighlight="#BD7979"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/Tushar_name"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentRight="true"
+        android:layout_marginTop="250dp"
+        android:layout_marginEnd="10dp"
+        android:layout_marginRight="88dp"
+        android:text="TUSHAR GAVKHARE"
+        android:textAlignment="center"
+        android:textSize="30dp"
+        android:textColor="#9FD6D0"
+        android:textColorHighlight="#BD7979"
+        android:textStyle="bold" />
+
+    <Button
+        android:id="@+id/Tushar_link"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentRight="true"
+        android:layout_marginTop="290dp"
+        android:layout_marginEnd="10dp"
+        android:layout_marginRight="88dp"
+        android:text="Linkedin"
+        android:textAlignment="center"
+        android:textSize="30dp"
+        android:textColor="#9FD6D0"
+        android:textColorHighlight="#BD7979"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/Yeeshant_name"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentRight="true"
+        android:layout_marginTop="350dp"
+        android:layout_marginEnd="10dp"
+        android:layout_marginRight="88dp"
+        android:text="Yeeshant Dahikar"
+        android:textAlignment="center"
+        android:textSize="30dp"
+        android:textColor="#9FD6D0"
+        android:textColorHighlight="#BD7979"
+        android:textStyle="bold" />
+
+    <Button
+        android:id="@+id/Yeeshant_link"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentRight="true"
+        android:layout_marginTop="390dp"
+        android:layout_marginEnd="10dp"
+        android:layout_marginRight="88dp"
+        android:text="Instagram"
+        android:textAlignment="center"
+        android:textSize="30dp"
+        android:textColor="#9FD6D0"
+        android:textColorHighlight="#BD7979"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/Shruti_name"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentRight="true"
+        android:layout_marginTop="450dp"
+        android:layout_marginEnd="10dp"
+        android:layout_marginRight="88dp"
+        android:text="Shruti Sharma"
+        android:textAlignment="center"
+        android:textSize="30dp"
+        android:textColor="#9FD6D0"
+        android:textColorHighlight="#BD7979"
+        android:textStyle="bold" />
+
+    <Button
+        android:id="@+id/Shruti_link"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentRight="true"
+        android:layout_marginTop="490dp"
+        android:layout_marginEnd="10dp"
+        android:layout_marginRight="88dp"
+        android:text="Linkedin"
+        android:textAlignment="center"
+        android:textSize="30dp"
+        android:textColor="#9FD6D0"
+        android:textColorHighlight="#BD7979"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/Vaishnavi_name"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentRight="true"
+        android:layout_marginTop="550dp"
+        android:layout_marginEnd="10dp"
+        android:layout_marginRight="88dp"
+        android:text="Vaishnavi Bhadale"
+        android:textAlignment="center"
+        android:textSize="30dp"
+        android:textColor="#9FD6D0"
+        android:textColorHighlight="#BD7979"
+        android:textStyle="bold" />
+
+    <Button
+        android:id="@+id/Vaishnavi_link"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentRight="true"
+        android:layout_marginTop="590dp"
+        android:layout_marginEnd="10dp"
+        android:layout_marginRight="88dp"
+        android:text="Instagram"
+        android:textAlignment="center"
+        android:textSize="30dp"
+        android:textColor="#9FD6D0"
+        android:textColorHighlight="#BD7979"
+        android:textStyle="bold" />
+
+
+</RelativeLayout>
